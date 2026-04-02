@@ -17,7 +17,7 @@ Track Docker images across your Kubernetes cluster with a simple web interface.
 
 ### Prerequisites
 
-- Go 1.21+
+- Go 2.21+
 - Access to a Kubernetes cluster
 - `kubectl` configured
 
